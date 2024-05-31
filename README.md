@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sohila25Akram
+- 👋 Hi, I’m Sohila Akram
 - 👀 I’m interested in Web development field
 - 🌱 I’m currently learning at faculty of Computer and Information
 - 💞️ I’m looking to collaborate on trainings and competitions in my field
